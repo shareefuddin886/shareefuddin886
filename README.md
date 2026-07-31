@@ -120,7 +120,9 @@ I enjoy solving real-world problems through clean architecture, scalable backend
 
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache/>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shareefuddin886&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
 # 🚀 Featured Project
 
 <div align="center">
@@ -223,11 +225,9 @@ The goal of **Nexora** is to become an all-in-one AI-powered career platform tha
 
 # 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shareefuddin886&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=shareefuddin886&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -243,12 +243,9 @@ The goal of **Nexora** is to become an all-in-one AI-powered career platform tha
 
 # 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shareefuddin886&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</div>
-
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shareefuddin886&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
 ---
 
 # 🐍 Contribution Snake
